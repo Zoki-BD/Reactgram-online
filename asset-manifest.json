@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Reactgram-online/static/css/main.2ae2ecfa.css",
+    "main.js": "/Reactgram-online/static/js/main.42c2d7f6.js",
+    "static/js/400.d700419a.chunk.js": "/Reactgram-online/static/js/400.d700419a.chunk.js",
+    "static/js/458.86e212f8.chunk.js": "/Reactgram-online/static/js/458.86e212f8.chunk.js",
+    "static/js/869.c7fbfc69.chunk.js": "/Reactgram-online/static/js/869.c7fbfc69.chunk.js",
+    "static/js/577.d7af44c3.chunk.js": "/Reactgram-online/static/js/577.d7af44c3.chunk.js",
+    "static/js/934.f17a6472.chunk.js": "/Reactgram-online/static/js/934.f17a6472.chunk.js",
+    "static/js/105.8c6fbac2.chunk.js": "/Reactgram-online/static/js/105.8c6fbac2.chunk.js",
+    "static/js/480.cdf1c9eb.chunk.js": "/Reactgram-online/static/js/480.cdf1c9eb.chunk.js",
+    "static/js/777.5983c985.chunk.js": "/Reactgram-online/static/js/777.5983c985.chunk.js",
+    "index.html": "/Reactgram-online/index.html",
+    "main.2ae2ecfa.css.map": "/Reactgram-online/static/css/main.2ae2ecfa.css.map",
+    "main.42c2d7f6.js.map": "/Reactgram-online/static/js/main.42c2d7f6.js.map",
+    "400.d700419a.chunk.js.map": "/Reactgram-online/static/js/400.d700419a.chunk.js.map",
+    "458.86e212f8.chunk.js.map": "/Reactgram-online/static/js/458.86e212f8.chunk.js.map",
+    "869.c7fbfc69.chunk.js.map": "/Reactgram-online/static/js/869.c7fbfc69.chunk.js.map",
+    "577.d7af44c3.chunk.js.map": "/Reactgram-online/static/js/577.d7af44c3.chunk.js.map",
+    "934.f17a6472.chunk.js.map": "/Reactgram-online/static/js/934.f17a6472.chunk.js.map",
+    "105.8c6fbac2.chunk.js.map": "/Reactgram-online/static/js/105.8c6fbac2.chunk.js.map",
+    "480.cdf1c9eb.chunk.js.map": "/Reactgram-online/static/js/480.cdf1c9eb.chunk.js.map",
+    "777.5983c985.chunk.js.map": "/Reactgram-online/static/js/777.5983c985.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ae2ecfa.css",
+    "static/js/main.42c2d7f6.js"
+  ]
+}
